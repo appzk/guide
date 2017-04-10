@@ -17,8 +17,20 @@ RedisDesktopManager [RedisDesktopManager](https://github.com/ondc/RedisDesktopMa
 
 sqlitebrowser [sqlitebrowser](https://github.com/ondc/sqlitebrowser)
 
+lottery-2016 [2017主题年会](https://github.com/ondc/lottery-2016)
+
+doraemon-doc [文档生成器](https://github.com/ondc/doraemon-doc)
+
+puer-mock [mock](https://github.com/ondc/puer-mock)
+
+gitbook [gitbook](https://github.com/ondc/gitbook)
+
 ## WebRtc
 kurento-media-server [kurento-media-server](https://github.com/ondc/kurento-media-server)
+
+## Js
+
+vmap [ocation:china, GitHub most popular Chinese user in Map](https://github.com/ondc/vmap)
 
 ## Web
 
@@ -34,12 +46,16 @@ showdoc [showdoc](https://github.com/ondc/showdoc)
 
 fex-team.github.io [百度fex](https://github.com/ondc/fex-team.github.io)
 
+oauth2 server [oauth_ci](https://github.com/ondc/codeigniter-oauth2-server)
+
 ## Server
 
 document-transform [文档转换服务](https://github.com/ondc/document-transform)
 
 codegen-builder-plugin [codegen-builder-plugin](https://github.com/ondc/codegen-builder-plugin)
     如果你正新开始一个服务器端API项目，使用的正是maven, Spring MVC技术，并使用JSON作为服务器返回的格式，那么codegen-builder-plugin将让你免费获得自动生成文档，自动生成Android客户端代码等功能
+
+influxdb 教程 入门 文档 [influxdb 简明手册](https://github.com/ondc/influxdb-handbook)
 
 viewfinder [viewfinder](https://github.com/ondc/viewfinder)
 
