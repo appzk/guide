@@ -1,5 +1,6 @@
 # guide
-projects list and untangle repository
+
+全栈的路上，日常收集的资源
 
 ## 工具篇 tool
 
